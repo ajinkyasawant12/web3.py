@@ -5,8 +5,7 @@ Python program to transfer money over Blockchain with web3.py and Infura Live ne
 
 ```
 1.web3.py 
-2.Infura account (https://blog.infura.io/getting-started-with-infura-28e41844cc89/)
-3.Ganache (https://www.trufflesuite.com/ganache)
+2.[Infura account](https://blog.infura.io/getting-started-with-infura-28e41844cc89/)
 ```
 
 ## Getting Started
